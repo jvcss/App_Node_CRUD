@@ -1,22 +1,21 @@
 # Node CRUD App with Express, MySQL, SQLite3, UUID and Docker
 
-This is a sample Node.js application that demonstrates how to use Express, MySQL, SQLite3, UUID, Wait-Port, and Docker to create a CRUD (Create, Read, Update, and Delete) application with a database.
+This is a template Node.js application that demonstrates how to use Express, MySQL, SQLite3, UUID, Wait-Port, and Docker to create a CRUD (Create, Read, Update, and Delete) application with a database.
 
 <table>
   <tr>
-    <td><img height="32" width="32" alt="Node.js" src="https://img.icons8.com/color/48/000000/nodejs.png" />
+    <td><img height="64" width="64" alt="Node.js" src="https://img.icons8.com/color/48/000000/nodejs.png" />
     </td>
-    <td><img height="32" width="32" alt="Express.js" src="./images/express-icon.png" />
+    <td><img height="64" width="64" alt="Express.js" src="./images/express-icon.png" />
     </td>
-    <td><img height="32" width="32" alt="MySQL" src="https://img.icons8.com/color/48/000000/mysql-logo.png" />
+    <td><img height="64" width="64" alt="MySQL" src="https://img.icons8.com/color/48/000000/mysql-logo.png" />
     </td>
-    <td><img height="32" width="32" alt="SQLite3" src="./images/sqlite-icon.png" />
+    <td><img height="64" width="64" alt="SQLite3" src="./images/sqlite-icon.png" />
     </td>
-    <td><img height="32" width="32" alt="UUID" src="./images/uuid-icon.png" />
+    <td><img height="64" width="64" alt="UUID" src="./images/uuid-icon.png" />
     </td>
-    <td><img height="32" width="32" alt="Docker" src="https://img.icons8.com/color/48/000000/docker.png" />
+    <td><img height="64" width="64" alt="Docker" src="https://img.icons8.com/color/48/000000/docker.png" />
     </td>
-    <th>Month</th>
   </tr>
 </table>
 
@@ -33,7 +32,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/Node-CRUD-App.git
+git clone https://github.com/jvcss/App_Node_CRUD.git
 ```
 
 2. Install the dependencies
@@ -48,7 +47,9 @@ docker-compose up
 
 4. Start the application with Docker
 
-Wait for the command to complete, and then visit http://localhost:3000 in your browser to access the application.
+### Wait for the command to complete, and then visit http://localhost:3000 in your browser to access the application.
+
+<br/>
 
 ### Built With
 - Node.js - JavaScript runtime
