@@ -2,12 +2,23 @@
 
 This is a sample Node.js application that demonstrates how to use Express, MySQL, SQLite3, UUID, Wait-Port, and Docker to create a CRUD (Create, Read, Update, and Delete) application with a database.
 
-![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)
-![Express.js](./images/express-icon.png)
-![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png)
-![SQLite3](./images/sqlite-icon.png)
-![UUID](./images/uuid-icon.png)
-![Docker](https://img.icons8.com/color/48/000000/docker.png)
+<table>
+  <tr>
+    <td><img height="32" width="32" alt="Node.js" src="https://img.icons8.com/color/48/000000/nodejs.png" />
+    </td>
+    <td><img height="32" width="32" alt="Express.js" src="./images/express-icon.png" />
+    </td>
+    <td><img height="32" width="32" alt="MySQL" src="https://img.icons8.com/color/48/000000/mysql-logo.png" />
+    </td>
+    <td><img height="32" width="32" alt="SQLite3" src="./images/sqlite-icon.png" />
+    </td>
+    <td><img height="32" width="32" alt="UUID" src="./images/uuid-icon.png" />
+    </td>
+    <td><img height="32" width="32" alt="Docker" src="https://img.icons8.com/color/48/000000/docker.png" />
+    </td>
+    <th>Month</th>
+  </tr>
+</table>
 
 ## Getting Started
 
